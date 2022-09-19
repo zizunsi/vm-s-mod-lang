@@ -1,1 +1,2 @@
-# vm-s-mod-lang
+# vm汉化组 mod汉化
+一些在整合包汉化中顺带汉化的mod
